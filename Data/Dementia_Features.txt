@@ -1,0 +1,254 @@
+0: The patient exhibits peripheral mass lesions.
+1: The patient exhibits relatively unaffected visuospatial function.
+2: The patient exhibits delayed verbal recall.
+3: The patient exhibits reduced speech output.
+4: The patient exhibits non-fluent speech.
+5: The patient exhibits biological features of depression.
+6: The patient exhibits pleocytosis.
+7: The patient exhibits diminished vibration sense.
+8: The patient exhibits recurrent cerebral infarcts.
+9: The patient exhibits dyspraxia.
+10: The patient exhibits change in food preference.
+11: The patient exhibits impaired naming with semantically based errors.
+12: The patient exhibits fluctuating cognitive performance.
+13: The patient exhibits difficulty with complex visuospatial tasks.
+14: The patient exhibits abnormalities in the parietotemporal regions on SPECT scans.
+15: The patient exhibits psychomotor slowing.
+16: The patient exhibits rapid shifts between hypoactivity and hyperactivity.
+17: The patient exhibits disturbance of the sleep–wake cycle.
+18: The patient exhibits apathy.
+19: The patient exhibits multiple phonological errors.
+20: The patient exhibits speech disorder.
+21: The patient exhibits behavioural problems.
+22: The patient exhibits decreased reflexes.
+23: The patient exhibits poor performance on neuropsychological tests.
+24: The patient exhibits worsening of semantic memory.
+25: The patient exhibits anosmia.
+26: The patient exhibits ventricular dilatation.
+27: The patient exhibits mood swings.
+28: The patient exhibits apraxia.
+29: The patient exhibits confluent subcortical and corpus callosal demyelination.
+30: The patient exhibits poor concentration.
+31: The patient exhibits patchy performance on memory tasks.
+32: The patient exhibits relatively spared memory in the early stages.
+33: The patient exhibits a loss of appetite.
+34: The patient exhibits impaired comprehension of faces.
+35: The patient exhibits pout reflex.
+36: The patient exhibits delusions.
+37: The patient exhibits reduced category fluency.
+38: The patient exhibits stereotyped food choices.
+39: The patient exhibits amnesia.
+40: The patient exhibits gross impairments in the grammatical aspects of language production.
+41: The patient exhibits visuospatial function.
+42: The patient exhibits mental slowing.
+43: The patient exhibits lack of subjective feelings.
+44: The patient exhibits perceptual distortions.
+45: The patient exhibits impaired judgement.
+46: The patient exhibits optic atrophy.
+47: The patient exhibits visual hallucinations.
+48: The patient exhibits poor understanding of complex words.
+49: The patient exhibits sensitivity to neuroleptic medication.
+50: The patient exhibits relatively preserved day-to-day memory (episodic memory).
+51: The patient exhibits indifference to professional responsibilities.
+52: The patient exhibits lobar haemorrhages.
+53: The patient exhibits difficulty answering questions.
+54: The patient complains of a loss of memory for words.
+55: The patient exhibits illusions.
+56: The patient exhibits narrowing of the vessel.
+57: The patient exhibits ventricular enlargement disproportionate to the degree of cortical atrophy.
+58: The patient exhibits mild extrapyramidal features.
+59: The patient exhibits marital problems.
+60: The patient exhibits mutations on chromosome 19.
+61: The patient exhibits Babinski reflex.
+62: The patient exhibits small-vessel disease.
+63: The patient exhibits disinhibition.
+64: The patient exhibits restlessness.
+65: The patient exhibits impairment of executive abilities.
+66: The patient exhibits financial problems.
+67: The patient exhibits agitation.
+68: The patient exhibits ambulatory difficulties.
+69: The patient exhibits involuntary movements.
+70: The patient exhibits hallucinations.
+71: The patient exhibits perseverations.
+72: The patient exhibits a tendency to echolalia.
+73: The patient exhibits snout reflex.
+74: The patient exhibits sleep disturbance.
+75: The patient exhibits socially inappropriate behaviour.
+76: The patient exhibits pathological changes in the cutaneous blood vessels.
+77: The patient exhibits loss of the cerebral white matter.
+78: The patient exhibits periventricular high-signal changes.
+79: The patient exhibits impaired repetition.
+80: The patient exhibits changes in personality.
+81: The patient exhibits sensory ataxia.
+82: The patient exhibits white-matter changes.
+83: The patient exhibits acute onset of attentional abnormalities.
+84: The patient exhibits poor memory.
+85: The patient exhibits giving bizarrely wrong answers to questions.
+86: The patient exhibits difficulty with visuospatial tasks.
+87: The patient exhibits a lack of interest in hobbies and activities.
+88: The patient exhibits past psychiatric history.
+89: The patient exhibits inconsistency in mmse test performance.
+90: The patient exhibits memory loss that may be less prominent than in Alzheimer's disease.
+91: The patient exhibits stroke-like episodes.
+92: The patient exhibits cognitive slowing.
+93: The patient exhibits mild tremor.
+94: The patient exhibits severe forgetfulness.
+95: The patient exhibits difficulty in managing complex day-to-day activities.
+96: The patient exhibits pout reflexes.
+97: The patient exhibits extensor plantar responses.
+98: The patient exhibits abnormalities in the parietotemporal regions.
+99: The patient exhibits ganser syndrome.
+100: The patient exhibits history of atherosclerotic risk factors.
+101: The patient exhibits forgetfulness.
+102: The patient exhibits increased tone in their voice.
+103: The patient exhibits preference towards sweet foods.
+104: The patient exhibits oligoclonal bands.
+105: The patient exhibits insidiously progressive changes in personality and behaviour.
+106: The patient exhibits repetitive questioning.
+107: The patient exhibits mild tremor with postural and action components.
+108: The patient exhibits poorly articulated speech.
+109: The patient exhibits gait disturbance.
+110: The patient exhibits migraine-like headaches.
+111: The patient exhibits cognitive impairment.
+112: The patient exhibits gross impairments in the phonological (sound-based) aspects of language production.
+113: The patient exhibits large infarcts.
+114: The patient exhibits poor understanding of complex concepts.
+115: The patient exhibits impaired repetition of multisyllabic phrases.
+116: The patient exhibits Binswanger's disease.
+117: The patient exhibits indifference to domestic responsibilities.
+118: The patient exhibits progressive cognitive decline.
+119: The patient exhibits mutations in the notch3 gene on chromosome 19.
+120: The patient exhibits confluent subcortical demyelination.
+121: The patient has a history of theft.
+122: The patient exhibits memory loss.
+123: The patient exhibits visuospatial impairments.
+124: The patient exhibits subcortical dementia syndrome.
+125: The patient exhibits increased reflexes.
+126: The patient exhibits muscle fasciculations.
+127: The patient exhibits infarcts involving multiple main arterial territories.
+128: The patient exhibits a loss of libido.
+129: The patient exhibits impaired repetition of multisyllabic words.
+130: The patient exhibits wasting.
+131: The patient exhibits snout reflexes.
+132: The patient exhibits gait apraxia.
+133: The patient exhibits multiple lacunar lesions.
+134: The patient exhibits bladder dysfunction.
+135: The patient exhibits multiple lesions.
+136: The patient exhibits diffuse white-matter disease.
+137: The patient exhibits increased protein and oligoclonal bands.
+138: The patient exhibits well-preserved word comprehension.
+139: The patient exhibits postural components of tremors. 
+140: The patient exhibits difficulty understanding less frequent words.
+141: The patient exhibits incontinence.
+142: The patient exhibits visuospatial disturbance.
+143: The patient exhibits intracerebral haemorrhages.
+144: The patient exhibits grasp reflex.
+145: The patient exhibits fluent speech.
+146: The patient exhibits word-finding difficulties.
+147: The patient exhibits impaired comprehension of words.
+148: The patient exhibits substance dependence.
+149: The patient exhibits trouble with the law.
+150: The patient exhibits rigidity.
+151: The patient exhibits agrammatical speech.
+152: The patient exhibits symmetrical diffuse low-density periventricular hypodensity.
+153: The patient exhibits impairments in job performance.
+154: The patient exhibits obsessive–compulsive behaviour.
+155: The patient exhibits good visuospatial skills.
+156: The patient exhibits joint contractures.
+157: The patient exhibits sparse language output.
+158: The patient exhibits relatively spared memory.
+159: The patient exhibits poor performance on semantically based tasks.
+160: The patient exhibits unawareness of the meaning of words and phrases.
+161: The patient exhibits macrocytic anaemia.
+162: The patient exhibits deterioration of social skills.
+163: The patient exhibits raised intracranial pressure.
+164: The patient exhibits subcortical infarcts.
+165: The patient exhibits spontaneous fluctuations in cognitive abilities.
+166: The patient exhibits mutism.
+167: The patient exhibits greatly increased rigidity.
+168: The patient exhibits mental inflexibility.
+169: The patient exhibits diminished vibration sense in the lower limbs.
+170: The patient exhibits stereotyped daily routines.
+171: The patient exhibits action components of tremors. 
+172: The patient exhibits well-preserved object recognition.
+173: The patient exhibits pathological changes in the cutaneous blood vessels in a skin biopsy.
+174: The patient exhibits leucoencephalopathy (CADASIL).
+175: The patient exhibits anomia.
+176: The patient exhibits neuropsychiatric symptoms.
+177: The patient exhibits potential concomitant organic disorder.
+178: The patient exhibits word substitutions.
+179: The patient exhibits severe language impairment.
+180: The patient exhibits loss of personal identity.
+181: The patient exhibits language difficulties.
+182: The patient exhibits mixed reflexes.
+183: The patient exhibits periventricular hypodensity.
+184: The patient exhibits low energy.
+185: The patient exhibits ataxia.
+186: The patient exhibits rapid onset of memory impairment.
+187: The patient exhibits asymmetries on the neurological examination.
+188: The patient exhibits shrinking vocabulary.
+189: The patient exhibits loss of salient personal events.
+190: The patient exhibits small lesions.
+191: The patient exhibits focal neurological signs.
+192: The patient exhibits impairment of visuoperceptual abilities.
+193: The patient exhibits personality changes.
+194: The patient exhibits poor recent memory.
+195: The patient exhibits corpus callosal demyelination.
+196: The patient exhibits impairment of episodic memory.
+197: The patient exhibits impaired naming of low-frequency words.
+198: The patient exhibits tendencies to hoard food.
+199: The patient exhibits lack of feelings of depression.
+200: The patient exhibits primitive reflexes such as snout, pout, and grasp.
+201: The patient exhibits narrowing of the vessel to produce ischaemia.
+202: The patient exhibits cortical atrophy.
+203: The patient exhibits mutations in the notch3 gene.
+204: The patient exhibits fleeting misidentification phenomena.
+205: The patient exhibits profound loss in conceptual knowledge (or semantic memory).
+206: The patient exhibits semantically based errors.
+207: The patient exhibits delirium.
+208: The patient exhibits patchy performance on frontal tasks.
+209: The patient exhibits lacunar infarcts.
+210: The patient exhibits empty speech.
+211: The patient exhibits jocularity.
+212: The patient exhibits changes in behaviour.
+213: The patient exhibits peripheral mass lesions of varying signal density on CT.
+214: The patient exhibits extrapyramidal signs.
+215: The patient exhibits hyperactivity.
+216: The patient exhibits abnormal sexual behaviour.
+217: The patient exhibits impairments in social function.
+218: The patient exhibits disturbance of consciousness.
+219: The patient exhibits seizures.
+220: The patient exhibits unilateral visual failure.
+221: The patient exhibits hypoactivity.
+222: The patient exhibits lack of initiation.
+223: The patient exhibits non-verbal problem-solving ability.
+224: The patient exhibits fatuousness.
+225: The patient exhibits marked fluctuations in cognitive abilities.
+226: The patient exhibits impaired naming.
+227: The patient exhibits myoclonus.
+228: The patient exhibits pupillary abnormalities.
+229: The patient exhibits cerebral amyloid angiopathy.
+230: The patient exhibits worsening of language function.
+231: The patient exhibits grasp reflexes.
+232: The patient exhibits ventricular enlargement.
+233: The patient exhibits delayed verbal recall of new material.
+234: The patient exhibits impaired comprehension of objects.
+235: The patient exhibits distractibility.
+236: The patient exhibits frontal executive malfunction.
+237: The patient exhibits impaired attention.
+238: The patient exhibits periventricular high-signal changes on T2-weighted MRI.
+239: The patient exhibits gradual loss of expressive abilities.
+240: The patient exhibits rapid onset of intellectual impairment.
+241: The patient exhibits cerebral autosomal dominant arteriopathy.
+242: The patient exhibits ischaemia.
+243: The patient exhibits reduced ability to maintain attention to external stimuli.
+244: The patient exhibits marked fluctuations in behaviour.
+245: The patient exhibits emotional lability.
+246: The patient exhibits medial temporal lobe atrophy.
+247: The patient exhibits visuospatial difficulties.
+248: The patient exhibits psychomotor disturbance.
+249: The patient exhibits poor performance on neuropsychological tests of frontal function.
+250: The patient exhibits ophthaloplegia.
+251: The patient exhibits wasting particularly affecting the bulbar musculature.
+252: The patient exhibits normal repetition of words and phrases.
+253: The patient exhibits inability to appropriately shift attention to new stimuli.
