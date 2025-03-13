@@ -1,0 +1,14 @@
+Rewrite this sentence as multiple simple sentences beginning with "The patient exhibits" one per line.
+
+Sentence: The patient exhibits cognitive slowing plus impairment of executive (planning and organizational abilities) and visuoperceptual abilities.
+Output: The patient exhibits cognitive slowing.
+The patient exhibits impairment of executive (planning and organizational) abilities.
+The patient exhibits visuoperceptual abilities.
+
+Sentence: The patient exhibits ventricular enlargement disproportionate to the degree of cortical atrophy.
+Output: The patient exhibits ventricular enlargement.
+The patient exhibits cortical atrophy.
+The patient exhibits ventricular enlargement disproportionate to the degree of cortical atrophy.
+
+Sentence:{sentence}
+Output:

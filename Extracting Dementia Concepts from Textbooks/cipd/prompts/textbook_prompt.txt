@@ -1,0 +1,3 @@
+Rewrite the following description about {condition} as multiple bullet points in the format "The patient experiences ...". Be as exhaustive as you can.'
+{description}
+The patient experiences:

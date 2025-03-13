@@ -1,0 +1,17 @@
+openai
+langchain==0.0.61
+emot
+emoji
+click
+pydantic
+tenacity
+pandas
+numpy
+sqlitedict
+faiss-cpu
+annoy
+sentence_transformers
+line-profiler
+black
+tiktoken
+spacy
