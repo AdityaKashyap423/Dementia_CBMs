@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the research paper **Predicting Explainable Dementia Types with LLM-aided Feature Engineering** (yet to be published). The study introduces a novel Large Language Model (LLM)-aided feature engineering pipeline that enhances interpretability in predicting dementia subtypes using clinical notes from Electronic Health Records (EHRs). Our approach achieves superior accuracy compared to baseline models while maintaining interpretability crucial for clinical deployment.
+This repository contains the code for the research paper **Predicting Explainable Dementia Types with LLM-aided Feature Engineering** (accepted at the Bioinformatics Journal, April, 2025. Will be published soon!). The study introduces a novel Large Language Model (LLM)-aided feature engineering pipeline that enhances interpretability in predicting dementia subtypes using clinical notes from Electronic Health Records (EHRs). Our approach achieves superior accuracy compared to baseline models while maintaining interpretability crucial for clinical deployment.
 
 ## Key Contributions
 
